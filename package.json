@@ -24,7 +24,7 @@
     "datatables.net-responsive-bs4": "^2.2.3",
     "jquery": "^3.4.0",
     "laravel-mix": "^4.0.5",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "popper.js": "^1.14.6",
     "vue": "^2.5.21",
     "vue-router": "^3.0.2",
